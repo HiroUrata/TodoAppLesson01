@@ -14,8 +14,8 @@ class FirstActionViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        uiPartsGroup.showTextField(targetView: view)
-        // Do any additional setup after loading the view.
+        uiPartsGroup.showFirstActionParts(targetView: view)
+
     }
 
 
